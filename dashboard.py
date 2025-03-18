@@ -57,7 +57,7 @@ if "ENVIRONMENT" in st.secrets:
     environment = st.secrets["ENVIRONMENT"]
 else:
     environment = os.environ.get("ENVIRONMENT", "local")
-st.write(f"Environment: {environment}")
+# st.write(f"Environment: {environment}")
 
 if "GH_TOKEN" in st.secrets:
     token = st.secrets["GH_TOKEN"]
@@ -67,10 +67,10 @@ else:
 
 if environment == "local":
     articles = load_articles()
-    st.write("Loading locally...")
+    # st.write("Loading locally...")
 else:
     articles = load_articles_from_github()
-    st.write("Loading from GitHub...")
+    # st.write("Loading from GitHub...")
 
 st.title("Real Estate News Dashboard")
 st.write(f"Showing **{len(articles)}** articles.")
