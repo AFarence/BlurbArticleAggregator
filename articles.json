@@ -1780,5 +1780,23 @@
             "Commercial Real Estate": 0.8066916465759277,
             "Real Estate Technology": 0.7549082040786743
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/luxury-homes/2025/03/23/renovated-charlestown-brownstone/",
+        "raw_pub_date": "2025-03-23",
+        "pub_date": "2025-03-23T00:00:00",
+        "hed": "With a $6.5 million price tag, this listing could set a Charlestown record",
+        "subhead": "The renovated brownstone was previously a four-unit apartment building.",
+        "content": "ByMegan O'Brien\nThis luxury listing is situated across the street from the Bunker Hill Monument \u2014 and there\u2019s a chance it could make a little Charlestown history of its own.\nLast week,31 Monument Squareentered the market for $6,500,000, an asking price that, if met, would set the record for the most expensive single-family home sale in Charlestown.Tyler Le Caoof BA Property and Lifestyles Advisors has the listing.\nThe home, previously a four-unit apartment building before it was last sold in 2021, has been thoughtfully renovated, blending modern fixtures with restored period details. Standing at 4,656 square feet on 0.06 of an acre, it offers six bedrooms, four full bathrooms, and two half bathrooms. Elegant details such as wainscoting, marble fireplaces, and pocket doors can be found throughout.\nThe first floor shows off panes of stained glass and herringbone wood floors. This level includes a kitchen, anchored by an island that seats four, as well as a dining and living room.\nHalf of the bedrooms are located on the second floor, including the primary suite with a fireplace in the bedroom, walk-through closet, and bathroom offering a double vanity and separate shower and tub. The remaining bedrooms are found on the the third floor, along with a family room featuring a fireplace and wet bar.\nThe 16-room property also includes two parking spaces.\nOur weekly digest on buying, selling, and design, with expert advice and insider neighborhood knowledge.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.9161350131034851,
+            "Real Estate Market Trends": 0.8083763718605042,
+            "Real Estate Investment": 0.6624770760536194,
+            "Real Estate Finance": 0.5886656641960144,
+            "Real Estate Legal": 0.5293701887130737,
+            "Real Estate Technology": 0.5016699433326721,
+            "Commercial Real Estate": 0.14200957119464874
+        }
     }
 ]
