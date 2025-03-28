@@ -2464,5 +2464,23 @@
             "Real Estate Technology": 0.22815625369548798,
             "Real Estate Legal": 0.18750552833080292
         }
+    },
+    {
+        "url": "https://nypost.com/2025/03/27/real-estate/homebuilder-unveils-fire-resilient-neighborhood/",
+        "raw_pub_date": "2025-03-27",
+        "pub_date": "2025-03-27T00:00:00",
+        "hed": "Homebuilder unveils \u2018fire-resilient\u2019 neighborhood to limit devastation from wildfires",
+        "subhead": "Now on\n Page Six",
+        "content": "\nKB Home on Thursday unveiled its first wildfire-resilient neighborhood inSouthern California, marking one of the many solutions the homebuilding industry is working on to protect structures and communities from the devastating effects of natural disasters.\nKB Home, one of the largest homebuilders in the U.S., announced that KB Home\u2019s Dixon Trail community in Escondido is the first in the nation that meets the home- and neighborhood-level wildfire resilience standards developed by the independent nonprofit research organization Insurance Institute for Business & Home Safety.\nThe community was built with fire-resistant materials and is \u201cdesigned to IBHS\u2019s highest level of protection against direct flame contact, radiant heat and embers, which helps to meaningfully reduce the likelihood of wildfire spread,\u201d the company said.\nKB Home said it implemented strategies both in and around the homes to prevent wildfires \u201cfrom becoming catastrophic.\u201d\nFor instance, the company has installed Class A fire-rated roofs, noncombustible gutters, upgraded windows and doors, and ember-and flame-resistantvents for homes. It also created a 5-foot noncombustible buffer around structures.\nKB Home also separated nearly all the structures by more than 10 feet and decreased the potential fuels through the use of fire-resistant materials like all-metal fence systems.\nThe community was built after a JPMorgan analysis revealed that overall economic losses and insured losses caused by the deadly wildfires impacting Southern California are likely to be the most costly in state history.\nJPMorgan\u2019s insurance analystsreleased a report in January that looked at the exposure of homeowner and commercial property insurance lines in light of the wildfires that have devastated communities in the Los Angeles area, including Pacific Palisades and Altadena. Several people were killed and thousands of homes, businesses and other structures were damaged or destroyed.\nThe analysts estimated that the total impact would be worse than the 2018 Butte County Camp fires, which previously held the record for the highest insured loss wildfires in California\u2019s history.\nThe 2018 Camp Fire devastated the town of Paradise and several nearby communities and caused 85 fatalities. It was caused by a downed utility transmission line during a high wind event.\nAdvertisement",
+        "Outlet": "NY Post",
+        "classifications": {
+            "Residential Real Estate": 0.7242871522903442,
+            "Real Estate Investment": 0.6923290491104126,
+            "Real Estate Market Trends": 0.57390296459198,
+            "Real Estate Finance": 0.5603278875350952,
+            "Real Estate Technology": 0.5254265069961548,
+            "Real Estate Legal": 0.4248849153518677,
+            "Commercial Real Estate": 0.39167243242263794
+        }
     }
 ]
