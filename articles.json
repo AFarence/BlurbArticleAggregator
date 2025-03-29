@@ -2626,5 +2626,23 @@
             "Commercial Real Estate": 0.4371097683906555,
             "Real Estate Technology": 0.42569825053215027
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/luxury-homes/2025/01/29/waterfront-cape-cod-estate/",
+        "raw_pub_date": "2025-01-29",
+        "pub_date": "2025-01-29T00:00:00",
+        "hed": "Luxury Home of the Week: Asking nearly $11m, a stunning Cape estate",
+        "subhead": "Barnstable property offers refined details like centuries-old columns, barrel ceilings, archways, and reclaimed white oak floors.",
+        "content": "ByMegan O'Brien\nVerdant grounds and elegant finishes await at this Luxury Home of the Week address, a substantial estate on the Cape.\nThe property at122 Pinquickset Cove Circlein Cotuit is made up of a main residence, carriage house, and guest cottage. Listed for $10,950,000 byPaul Groverof Berkshire Hathaway HomeServices Robert Paul Properties, it includes six bedrooms, six full bathrooms, and three half bathrooms in 7,928 square feet of living space.\nThe Cape mansion sits on 7.6 acres featuring landscaped gardens and specimen trees, as well as a spacious terrace and infinity pool looking out to the water.\nBuilt in the aughts, the home in this Barnstable village fuses antique and contemporary touches, such as 200-year-old columns and 100-year-old hand-painted tiles imported from Europe alongside a Savant smart home system.\nIn the main house, the first floor includes family and living rooms, a dining area, and a bedroom suite with a walk-in closet. The kitchen features two islands, twoLa Cornueranges, soapstone counters, whitewashed brick walls, and a breakfast nook with water views. A wine cellar helps round out the level.\nThere are three more bedroom suites upstairs, including the palatial primary. The owner\u2019s space includes a fireplace, a private balcony, a barrel ceiling, a luxurious bathroom, dressing rooms, and a sitting room.\nElsewhere on the Cape property, a spiral staircase leads to the second floor of the carriage house, showing off an open-format eat-in kitchen and bedroom under a vaulted ceiling. The cozy guest cottage beckons with an arched front door, fireplace, and an eat-in kitchen with a farmhouse sink.\nGet the latest news on buying, selling, renting, home design, and more.\n\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.913811981678009,
+            "Real Estate Investment": 0.643458902835846,
+            "Real Estate Market Trends": 0.4906272888183594,
+            "Real Estate Technology": 0.4017414450645447,
+            "Real Estate Legal": 0.3965332806110382,
+            "Real Estate Finance": 0.38099759817123413,
+            "Commercial Real Estate": 0.04231277108192444
+        }
     }
 ]
