@@ -2680,5 +2680,23 @@
             "Real Estate Legal": 0.14286325871944427,
             "Real Estate Technology": 0.13258488476276398
         }
+    },
+    {
+        "url": "https://nypost.com/2025/03/30/business/nyc-real-estate-related-revenue-hit-record-37b-last-year/",
+        "raw_pub_date": "2025-03-30",
+        "pub_date": "2025-03-30T00:00:00",
+        "hed": "NYC Real-estate-related revenue hit record $37B last year",
+        "subhead": "More From\t\t\t\t\t\t\tSteve Cuozzo",
+        "content": "The real estate industry, and especially the commercial sector,\u00a0remains the main driver of the New York City economy, according to data to be released on Monday by the Real Estate Board of New York.\nThe trade organization reported that real estate-related tax revenue (RERT) increased to a record high $37 billion in 2024 and is on track to top $50 billion in the next fiscal year.\nRERT revenue far outpaced any other source, totaling nearly 50% of all municipal tax revenue in 2024 \u2014 a percentage just slightly under the previous year. In fact, real estate-linked taxes have grown by more than 100% since 2010, compared with an 89% increase in the city budget over the same period.\nThe report\u2019s author, REBNY research head Keith De Coster, noted that the bonanza is driven by commercial real estate, which accounts for 82% of property taxes.\nReal estate revenue paid for the total wages and salaries of 280,000 city workers in such departments as the NYPD and Transportation department. Some $5 billion in real estate transfer taxes were earmarked for the MTA\u2019s Capital Lockbox.\nREBNY president James Whelan said, \u201cThrough the pandemic, changing workplace trends and volatile macroeconomic pressures, the real estate sector continues to be the backbone of of New York City\u2019s economy and revenue base.\u201d",
+        "Outlet": "NY Post",
+        "classifications": {
+            "Commercial Real Estate": 0.9596977829933167,
+            "Real Estate Investment": 0.7363367676734924,
+            "Real Estate Market Trends": 0.6350687146186829,
+            "Real Estate Legal": 0.465056836605072,
+            "Real Estate Finance": 0.4465068578720093,
+            "Residential Real Estate": 0.1601053774356842,
+            "Real Estate Technology": 0.12581315636634827
+        }
     }
 ]
