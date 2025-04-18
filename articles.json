@@ -4984,5 +4984,23 @@
             "Real Estate Legal": 0.3815045654773712,
             "Commercial Real Estate": 0.23149803280830383
         }
+    },
+    {
+        "url": "https://www.bostonglobe.com/2025/04/18/business/crane-ledge-hyde-park-housing/",
+        "raw_pub_date": "2025-04-18",
+        "pub_date": "2025-04-18T00:00:00",
+        "hed": "City loses court ruling in fight over developing Hyde Park property",
+        "subhead": "",
+        "content": "A developer looking to put up more than 200 apartments in a wooded Hyde Park property that\u2019s treasured by neighbors has won a key court victory in a legal battle with City Hall over the project.An affiliate of Dallas-based apartment developer Willow Bridge and the property\u2019s owner, the Jubilee Christian Church, had sued the Boston Planning & Development Agency, essentially accusing the city agency of leaving their 204-unit project in bureaucratic limbo by requesting changes that were not necessary to comply with the site\u2019s existing zoning. They initially filed plans for a section of the 24-acre property \u2014 known locally as \u201cCrane Ledge Woods\u201d \u2014 with the city in 2021, and have since scaled back their ambitions from originally aiming to build 270 units on the site.On April 10, Land Court judge Kevin Smith ruled that the BPDA cannot order such an aggressive redesign of a project if it complies with the city\u2019s zoning code. Instead, the judge said the city agency and planning staff only have the authority to apply \u201creasonable and appropriate conditions\u201d as part of approving such \u201cas-of-right\u201d projects.\u201cWe\u2019re excited and happy at the outcome,\u201d said Andrew Ward, executive director of business at Jubilee. \u201cIt\u2019s been a long journey.\u201dAdvertisementThe project now heads back to the city\u2019s planning staff for further review. Smith remanded the case to the BPDA, giving the agency 30 days after the developer submits full design documents for its revised project to determine what additional information is needed before the agency can complete its review and issue what\u2019s known as an \u201cadequacy determination,\u201d a necessary step for obtaining a building permit. Those documents, per the Mintz law firm, were filed on Thursday.Advertisement\u201cThe project has undergone rigorous BPDA review already,\u201d said Kelly Frey, a Mintz partner who represents Willow Bridge. \u201cWe hope this decision is enough to prompt them to get this done as expeditiously as possible.\u201dJubilee says it originally considered using the property at 990 American Legion Highway to build a new church, but later decided to develop it instead; ideas involving Home Depot or Walmart were floated over the years. (Jubilee currently has its main church in Mattapan, as well as locations in Stoughton and Worcester.) Then-mayor Marty Walsh made it clear he wanted to see more housing, so Jubilee teamed up with Lincoln Property Co., and then later with Lincoln\u2019s Willow Bridge offshoot, to pursue those plans.Those plans prompted fierce opposition from neighbors who launched a coalition to \u201cSave Crane Ledge Woods\u201d and flooded City Hall with complaints about the project. Opponents argued that this site remained as the largest unprotected \u201curban wild\u201d left in the city of Boston, providing an important habitat for wildlife and a buffer against rising temperatures and rainstorms.The BPDA did not provide a comment on Friday when asked about the agency\u2019s reaction to the court decision.Frank O\u2019Brien, a member of the Crane Ledge Woods Coalition, said the ruling creates an opening for Mayor Michelle Wu\u2019s administration to talk to the church and the developer about preserving the property.\u201cThe site as an urban woodland should be acquired for public benefit purposes,\u201d O\u2019Brien said. \u201cThe court ruling creates a window to accomplish that.\u201dJon Chesto can be reached at jon.chesto@globe.com. Follow him @jonchesto.",
+        "Outlet": "Boston Globe",
+        "classifications": {
+            "Residential Real Estate": 0.8598142266273499,
+            "Real Estate Legal": 0.7563784122467041,
+            "Real Estate Investment": 0.7418753504753113,
+            "Commercial Real Estate": 0.6526187062263489,
+            "Real Estate Technology": 0.5203860402107239,
+            "Real Estate Market Trends": 0.4876309335231781,
+            "Real Estate Finance": 0.39808186888694763
+        }
     }
 ]
