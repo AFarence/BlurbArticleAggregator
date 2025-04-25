@@ -5686,5 +5686,23 @@
             "Real Estate Technology": 0.09894652664661407,
             "Commercial Real Estate": 0.08282054215669632
         }
+    },
+    {
+        "url": "https://www.boston.com/news/real-estate/2025/04/25/yet-another-boston-office-tower-sells-cheap-this-time-its-99-high-st/",
+        "raw_pub_date": "2025-04-25",
+        "pub_date": "2025-04-25T00:00:00",
+        "hed": "Yet another Boston office tower sells cheap \u2013 this time, it\u2019s 99 High St.",
+        "subhead": "The 32-story tower sold for 17% less than its 2005 purchase price.",
+        "content": "ByBeth Treffeisen\nBoston real estate firm Synergy closed on its acquisition of the 32-story tower at 99 High St. on Thursday for $227 million.\nAccording to Suffolk County property records, the firm is taking over the 730,000-square-foot tower for 17% less than the $273 million the building\u2019s previous owner paid in 2005, and $100 million less than itsassessedvalue of $373.7 million.\nThe tower sits at the corner of High, Congress, and Purchase streets and is near South Station, the Rose Kennedy Greenway, and is accessible to Interstates 90 and 93.\nSynergy in apress releasesaid that the tower was constructed in 1971, but has undergone a lobby renovation in 2019 and over $24 million in capital improvements over the past decade.\nThe company says the building is 78% leased, with 32 tenants, including Mercer, Marsh McLennan, AIG, and Karuna Therapeutics.\n\u201cThe addition of 99 High Street to our portfolio solidifies Synergy\u2019s prominence as one of Downtown Boston\u2019s premier owners and operators,\u201d said David Greaney, founder and CEO of Synergy, in a statement. \u201cSynergy will continue to invest in high-quality assets in prime locations across the city.\u201d\nSynergy has bought several properties at a discount. As first reported by theBoston Globe, Synergy acquired101 Arch St. for 36% less than the building\u2019s prior purchase price, 1 Liberty Square for 17% less, and 179 Lincoln for 40% less.\nThe trend of declining values for office buildings is a growing concern, due to the implications it could have for Boston\u2019s property tax base, which is needed to fund a$4.8 billion budget.\nMore than two-thirds of the city\u2019s revenue comes from property taxes, with a large portion coming from commercial buildings. If values fall, so could the revenues needed to pay for city services.\nOne upside: Lower sale prices mean lower costs for tenants. Thenew owners of 399 Washington St., which sold this month for 80% less than its 2017 price, now have room to cut rents and fill the vacant ground-floor space.\nBeth Treffeisen is a general assignment reporter for Boston.com, focusing on local news, crime, and business in the New England region.\nGet everything you need to know to start your day, delivered right to your inbox every morning.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Real Estate Investment": 0.9768478274345398,
+            "Real Estate Market Trends": 0.9760339856147766,
+            "Commercial Real Estate": 0.9442249536514282,
+            "Residential Real Estate": 0.9044792056083679,
+            "Real Estate Finance": 0.9003379344940186,
+            "Real Estate Technology": 0.8863672614097595,
+            "Real Estate Legal": 0.8317164182662964
+        }
     }
 ]
