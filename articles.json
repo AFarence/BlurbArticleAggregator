@@ -6856,5 +6856,23 @@
             "Real Estate Finance": 0.7755224704742432,
             "Real Estate Legal": 0.7255720496177673
         }
+    },
+    {
+        "url": "https://www.bostonglobe.com/2025/05/07/business/former-fujufilm-site-bedford-will-soon-become-pharmaceutical-factory/",
+        "raw_pub_date": "2025-05-07",
+        "pub_date": "2025-05-07T00:00:00",
+        "hed": "Former Fujufilm site in Bedford will soon become a pharmaceutical factory",
+        "subhead": "Demand is growing for facilities to produce cell and gene therapies",
+        "content": "Fujifilm North America Corp. in April sold its long-held facility on Crosby Drive in Bedford to a real estate developer planning to convert the building to biomanufacturing uses.GenesisM, a joint venture of Boston-based Bain Capital Real Estate and New York-based real estate developer Botanic Properties, will redevelop the property at 45 Crosby Drive into a 154,000-square-foot facility capable of producing medicines and other therapies. The 15-acre site is at the corner of Crosby Drive and the Middlesex Turnpike just off Route 3. \u201cThis particular location is quite strong,\u201d said Alex Adarichev, principal with Botanic Properties, at a December meeting of the Bedford Planning Board. Biomanfuacturing facilities require highly specialized operations, such as clean room space, which is necessary when making products that go into the human body. AdvertisementA 2024 report from CBRE said that biotech industry shifts toward cell and gene therapies have created a surge in demand for biomanufacturing facilities.\u201cAccommodating the demand is extremely difficult because there is a limited supply to suitable facilities,\u201d the report read. \u201cIncreasingly, companies are simultaneously executing (cell and gene therapy) biomanufacturing and (research and development) activities during the clinical-trial stage, driving demand for leasable biomanufacturing spaces integrated within their R&D operations.\u201d Fujifilm has owned the Bedford property since 2001, when its Microdisks division paid chemical company BASF Corp. $2.4 million to acquire the site. Its successor in April sold the property to an entity managed by Adarichev and Botanic\u2019s Joshua Zinns for $26.35 million, according to Middlesex County property records. The developers intend to redo the building\u2019s facade and realign the building to make it suitable for small- or early-stage biomanufacturing tenants. The property could be divided into as many as six tenant spaces depending on market needs, said Conor Nagle, a landscape architect with VHB, at the December meeting. AdvertisementBain\u2019s GenesisM platform is designed \u201cto support biomanufacturing tenants struggling with high capital costs, long construction timelines and lack of access to purpose built biomanufacturing space at the right scale,\u201d said Bain Capital partner Joe Marconi in a statement. The Bedford Planning Board approved the 45 Crosby Drive conversion in December. The new facility was designed by Perkins & Will and will include landscape upgrades.Beyond the Crosby Drive facility, Adarichev said his company is looking for other development opportunities in the northern suburbs of Greater Boston.Catherine Carlock can be reached at catherine.carlock@globe.com. Follow her @bycathcarlock.",
+        "Outlet": "Boston Globe",
+        "classifications": {
+            "Real Estate Investment": 0.9571847319602966,
+            "Commercial Real Estate": 0.9493899345397949,
+            "Real Estate Technology": 0.8830376267433167,
+            "Residential Real Estate": 0.8665691018104553,
+            "Real Estate Market Trends": 0.8214499354362488,
+            "Real Estate Legal": 0.6322038769721985,
+            "Real Estate Finance": 0.5208367109298706
+        }
     }
 ]
