@@ -6838,5 +6838,23 @@
             "Real Estate Market Trends": 0.24084354937076569,
             "Commercial Real Estate": 0.08393628150224686
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/local-news/2025/05/07/zoning-board-rejects-70-unit-building-in-south-boston-over-lack-of-parking/",
+        "raw_pub_date": "2025-05-07",
+        "pub_date": "2025-05-07T00:00:00",
+        "hed": "Zoning board rejects 70-unit building in South Boston over lack of parking",
+        "subhead": "U.S. Rep. Stephen Lynch and City Councilors Ed Flynn and Henry Santana opposed the project.",
+        "content": "ByBeth Treffeisen\nBoston\u2019s Zoning Board of Appeals rejected a proposed 70-unit apartment building in South Boston last week, pointing to a lack of parking as a key concern.\nDeveloper Sing Ming Chan\u2019s proposal to erect a nine-story mixed-use building with 70 rental units and ground-level retail at 49 D St., South Boston, was on the table. However, the proposal was missing one key element\u2014parking. The Zoning Board of Appeals took note.\nAt the April 29 meeting, the board voted 5-2 to reject allowing the proposal to move forward. The board then voted unanimously to reject the plans without prejudice, allowing the developer to return with revised plans in less than a year.\nThe Boston Planning Departmentapprovedthe plans without parking in November.\nSitting on the site now is an aging two-story industrial building with surface parking on the proposed site, next to a gas station.\nGeorge Morancy, the developer\u2019s attorney at the meeting, said the initial plans included creating 14 on-site parking spaces underneath the building.\nHowever, after investigating, the developer found that the high water table and soil content would make it prohibitively expensive to build, with estimates at $5 million.\nHe said the project, even without parking, fits the city\u2019s goal of adding more housing near transit hubs, with two Red Line stops nearby. To ease neighbors\u2019 concerns, the developer signed two memoranda of understanding with nearby parking locations for about 90 spots, promising to lease spots to future residents.\nEven so, Morancy said, \u201cWe believe this works well as a no-parking project.\u201d\nThe project included 70 bicycle spots, and a bike lane is out front.\n\u201cAs all our neighbors are fully aware, a very small percentage of new residents regularly use bicycles for travel,\u201d said U.S. Rep Stephen Lynch, in a letter read out loud at the meeting. \u201cThe vast majority of new residents own cars.\u201d\n\u201cFor the city and the ZBA to persist in this fantasy that parking is not necessary is disingenuous,\u201d Lynch continued. \u201cThe homeowners, voters, and taxpayers feel that we are being treated with a lack of respect by Mayor Wu and her administration.\u201d\nThe Andrew Square Civic Association and Cityside Neighborhood Association both opposed the project.\nA representative from the mayor\u2019s office said it received over 150 letters opposing the project and 320 in support. Many said they were not against the project\u2019s density but were concerned about the lack of parking.\nRepresentatives for City Councilors Ed Flynn and Henry Santana also voiced opposition to the project.\nLinda Zablocki, president of the Andrew Square Civic Association, voiced concerns over the developer\u2019s lack of listening to concerns and worried about how rideshare and taxi drop-off zones crossed the bike lane to get to the building.\n\u201cWe are looking for tragedies if this building is approved,\u201d she said.\nBeth Treffeisen is a general assignment reporter for Boston.com, focusing on local news, crime, and business in the New England region.\nGet everything you need to know to start your day, delivered right to your inbox every morning.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.9525480270385742,
+            "Real Estate Investment": 0.9330268502235413,
+            "Commercial Real Estate": 0.9067912101745605,
+            "Real Estate Market Trends": 0.8922263979911804,
+            "Real Estate Technology": 0.8564354777336121,
+            "Real Estate Finance": 0.7755224704742432,
+            "Real Estate Legal": 0.7255720496177673
+        }
     }
 ]
