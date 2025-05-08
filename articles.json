@@ -7108,5 +7108,23 @@
             "Real Estate Market Trends": 0.7248925566673279,
             "Commercial Real Estate": 0.6395911574363708
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/local-news/2025/05/08/heres-how-mass-ranked-on-the-u-s-news-list-of-best-states-in-the-u-s/",
+        "raw_pub_date": "2025-05-08",
+        "pub_date": "2025-05-08T00:00:00",
+        "hed": "Here\u2019s how Mass. ranked on the U.S. News list of \u2018Best States in the U.S.\u2019",
+        "subhead": "Massachusetts took third place for the best state in New England.",
+        "content": "ByLindsay Shachnow\nMassachusetts is the ninth best state in the country, according to a new ranking byU.S. News & World Report.\nLaunched in 2017, the Best States rankings look at eight categories \u2014 health care, education, natural environment, opportunity, economy, crime and corrections, infrastructure, and fiscal stability \u2014 to assess the 50 states.\nEducation was the highest-weighted category in this year\u2019s rankings based on survey results about the issues that Americans care about most.\nMassachusettsranked second in health care, third in natural environment, and fifth in education as well as crime and corrections. It came in third place for the best state in New England, after New Hampshire (second overall) and Vermont (seventh overall).\n\u201cLegislatively, Massachusetts has paved the way for other states: It led the way in universal health care coverage, with a plan enacted in 2006 that inspired former President Barack Obama\u2019s Affordable Care Act,\u201daccording to the report. \u201cIt was also the first state to legalize gay marriage and the second to pass discrimination laws for individuals who identify as lesbian, gay or bisexual.\u201d\nEducation and health service industries employ the most people in Massachusetts,according toU.S. News. The state\u2019s tourism industry is also a \u201cmajor economic powerhouse.\u201d\nUtah came out on top for the third year in a row, ranking in the top ten in five of the Best State categories: fiscal stability, economy, infrastructure, education, and crime and corrections.\n\nLindsay Shachnow covers general assignment news forBoston.com, reporting on breaking news, crime, and politics across New England.\nOur weekly digest on buying, selling, and design, with expert advice and insider neighborhood knowledge.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.963829755783081,
+            "Real Estate Market Trends": 0.9172477126121521,
+            "Real Estate Investment": 0.914316713809967,
+            "Real Estate Technology": 0.8970786929130554,
+            "Commercial Real Estate": 0.8924789428710938,
+            "Real Estate Finance": 0.8732247352600098,
+            "Real Estate Legal": 0.8473830819129944
+        }
     }
 ]
