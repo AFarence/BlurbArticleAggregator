@@ -8764,5 +8764,23 @@
             "Real Estate Technology": 0.8630267977714539,
             "Commercial Real Estate": 0.6492823958396912
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/local-news/2025/05/23/massachusetts-cities-ranked-best-places-to-live/",
+        "raw_pub_date": "2025-05-23",
+        "pub_date": "2025-05-23T00:00:00",
+        "hed": "These 4 Massachusetts cities are among the best places to live in the U.S.",
+        "subhead": "The U.S. News & World Report released its annual list this week and scored cities across the country based on criteria including quality of education, healthcare, environment, and state infrastructure.",
+        "content": "ByEmilia Wisniewski\nFour Massachusetts cities made it in the top 250 best places to live in the U.S. list in 2025.\nThe U.S. News & World Report released itsannual listthis week and scored places across the countrybased on criteriathat potential residents have identified as important. Notably, the list accounts for cities and not towns.\nThrough interviews with people across the country, U.S. News compiled data to score each city based on quality of education, healthcare, environment, and state infrastructure. The scores also took into account housing affordability and cost of living as well as crime, weather, and commuting time.\nThe U.S. News & World Report also identified the best places to live in each state, regardless of whether the cities landed in the top 250. One other New England state had a city in the top 250.\nIn addition to the four listed above, here are 15 more cities that U.S. News identified as the best for Bay State living.\nOur weekly digest on buying, selling, and design, with expert advice and insider neighborhood knowledge.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.9430907964706421,
+            "Real Estate Market Trends": 0.9008446931838989,
+            "Real Estate Investment": 0.8572250008583069,
+            "Real Estate Technology": 0.8203145265579224,
+            "Real Estate Finance": 0.8103716373443604,
+            "Real Estate Legal": 0.806394636631012,
+            "Commercial Real Estate": 0.7922146320343018
+        }
     }
 ]
