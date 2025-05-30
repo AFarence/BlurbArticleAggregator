@@ -9430,5 +9430,23 @@
             "Commercial Real Estate": 0.6501059532165527,
             "Real Estate Technology": 0.6348481178283691
         }
+    },
+    {
+        "url": "https://www.bostonglobe.com/2025/05/30/business/boston-housing-construction-slowdown/",
+        "raw_pub_date": "2025-05-30",
+        "pub_date": "2025-05-30T00:00:00",
+        "hed": "\u2018Still in a housing crunch\u2019: Greater Boston\u2019s slowdown in new home construction continues",
+        "subhead": "",
+        "content": "The past two years have seen a slowdown in housing production in Greater Boston, as the number of new homes permitted has plummeted due to economic constraints. Now, it may be getting worse. In its quarterly report issued this month, the real estate firm Colliers said the share of housing inventory under construction in the region fell to a 10-year low in the first quarter of 2025. That means very little housing is being built, in comparison to the typical pace over the last decade. It\u2019s a sign that Greater Boston\u2019s multi-year slowdown in permitting of new apartment projects is beginning to show in the number of projects that are actually underway or finishing construction. \u201cAll of the economic factors that have slowed construction over the last two years are still impacting the market,\u201d said Jeff Myers, research director at Colliers. \u201cAnd while none of this is necessarily new at this point, all of those things are compounding, and we\u2019re seeing fewer projects getting to the point of breaking ground.\u201dRelated: A 10,000-unit housing development at Suffolk Downs is on hold indefinitely. Here\u2019s why.AdvertisementAfter a surge in new apartments permitted in 2021 and 2022, housing production has fallen significantly as the economy has shifted. The two main drivers of that slowdown are rising construction costs and interest rates. Construction costs surged during the pandemic and still have not returned to pre-pandemic rates, meaning the cost of materials needed for building is significantly higher than it was a few years ago. The rise in interest rates starting in early 2022 has made it more expensive for developers to secure construction loans. And the investors who finance much of the region\u2019s housing construction are demanding higher returns because they now view housing as a riskier investment due to the high cost of building. So builders now need their projects to earn more, while dealing with higher costs for materials and debt. AdvertisementIn other words, every piece of the financing for new housing has become more expensive.The result is that the Boston area had just over 11,000 units under construction at the end of the first quarter, according to Colliers, roughly 36 percent below the second quarter of 2022, the post-pandemic peak for construction. Other projects have been permitted but haven\u2019t started construction because they couldn\u2019t secure financing. Those numbers concern developers, because they indicate that the region may be coming to the end of the wave of projects that were permitted in 2021 and 2022. Since permitting has been low in the years since, few projects are slated to come online in the next couple of years. Related: \u2018The numbers should work, and they just don\u2019t\u2019: Is Cambridge\u2019s affordable housing rule backfiring?Indeed, the number of new units permitted so far in 2025 continues to lag the region\u2019s historical average. Through the first four months of the year, just 3,022 new units were permitted in Greater Boston, according to the Census Bureau\u2019s Building Permit Survey. That number was 4,095 in 2024, and 5,920 in 2022.And when few units are built, demand for housing is amplified and rents stay high. \u201cWe are still in a housing crunch,\u201d said Myers. \u201cAnd there is significant demand in this region.\u201dAndrew Brinker can be reached at andrew.brinker@globe.com. Follow him @andrewnbrinker.",
+        "Outlet": "Boston Globe",
+        "classifications": {
+            "Real Estate Market Trends": 0.971605658531189,
+            "Real Estate Investment": 0.9593631029129028,
+            "Real Estate Finance": 0.9577431082725525,
+            "Residential Real Estate": 0.9532262086868286,
+            "Real Estate Technology": 0.9120447635650635,
+            "Commercial Real Estate": 0.8679102063179016,
+            "Real Estate Legal": 0.8073799014091492
+        }
     }
 ]
