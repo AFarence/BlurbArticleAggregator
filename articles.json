@@ -9268,5 +9268,23 @@
             "Commercial Real Estate": 0.7712129950523376,
             "Real Estate Legal": 0.6650786399841309
         }
+    },
+    {
+        "url": "https://www.bostonglobe.com/2025/05/30/business/downtown-zoning-plan-boston/",
+        "raw_pub_date": "2025-05-30",
+        "pub_date": "2025-05-30T00:00:00",
+        "hed": "City plan would allow 700-foot towers across downtown. But some say \u2018it was a sham.\u2019",
+        "subhead": "The long-awaited zoning rules would clear the way for skyscrapers to help revive downtown and ease housing crunch.",
+        "content": "Downtown Boston could see a lot more skyscrapers if new zoning guidelines for the region\u2019s core business district are approved.The Boston Planning Department on Thursday unveiled what it hopes is the final iteration of a long-awaited downtown zoning plan, which outlines what can be built, and where, in core of the city. The zoning district runs roughly from the MBTA\u2019s Government Center station down along Tremont and Boylston Streets to Arlington Street, out to the MBTA Blue Line Aquarium station, and the Financial District in between. As it\u2019s now proposed, the zoning would cap new development along the Boston Common and Public Garden, as well as near the downtown waterfront, at 100 to 155 feet. The remaining downtown core, which encompasses most of the Financial District, would allow for buildings as high as 700 feet in height, unless they\u2019re barred by other regulations governing shadows or flight paths to Logan International Airport. Allowing skyscrapers to be built as-of-right, and without zoning variances, would let the city of Boston take advantage of its densest areas and clear the path for more mixed-use and housing development, said Boston\u2019s Chief of Planning Kairos Shen. That\u2019s especially important in a time when the office market is still struggling to find its footing post-pandemic.Related: City plan to allow 500-foot skyscrapers in Downtown Crossing hits the brakes after pushbackAdvertisement\u201cThere\u2019s general recognition that the downtown has not fully recovered its full vibrancy,\u201d Shen said. \u201cWe have to have the zoning to allow for people to actually think about more creative ways of investing in their property.\u201d AdvertisementThe zoning plan has been a years-long process to dictate what can be built and where in Boston\u2019s downtown core, and aims to balance the need to alleviate the city\u2019s housing crisis and and downtown\u2019s deep historic fabric, while also promoting the vitality of Boston\u2019s \u2014 indeed, New England\u2019s \u2014 economic hub. A new zoning plan would allow for more tall skyscrapers with minimal permitting in downtown Boston.Suzanne Kreiter/Globe StaffImplementing clear zoning rules will ease the path toward making real estate developments more viable, said Dave Greaney, whose Synergy Investments owns nine properties within the Plan Downtown area. As-of-right zoning cuts down on the risk of a project getting caught in a protracted city permitting and entitlement processes \u2014 which can often take years. \u201cAnything that promotes investment and development in the downtown is great and badly needed,\u201d Synergy CEO Dave Greaney said. \u201cWe\u2019ve seen the impacts of an empty downtown as we came out of COVID, and how retail businesses struggled, how office buildings have struggled. We need development. We need housing. We need to put the housing where the jobs are. ... It makes all the sense in the world.\u201d",
+        "Outlet": "Boston Globe",
+        "classifications": {
+            "Real Estate Investment": 0.9861322045326233,
+            "Real Estate Market Trends": 0.9337117075920105,
+            "Commercial Real Estate": 0.9180476665496826,
+            "Real Estate Legal": 0.8726295828819275,
+            "Residential Real Estate": 0.8690910339355469,
+            "Real Estate Finance": 0.8172381520271301,
+            "Real Estate Technology": 0.7828729152679443
+        }
     }
 ]
