@@ -10240,5 +10240,23 @@
             "Real Estate Legal": 0.6751056909561157,
             "Real Estate Finance": 0.6543731093406677
         }
+    },
+    {
+        "url": "https://www.bostonglobe.com/2025/06/06/business/mbta-communities-lawsuit-housing/",
+        "raw_pub_date": "2025-06-06",
+        "pub_date": "2025-06-06T00:00:00",
+        "hed": "Towns lose their latest challenge to controversial state housing law",
+        "subhead": "Nine towns had sued the state after Auditor called MBTA Communities an \u2018unfunded mandate.\u2019",
+        "content": "A Superior Court judge Friday dismissed a group of lawsuits from nine Eastern Massachusetts communities over a controversial state housing law that mandates cities and towns with access to the MBTA make it easier to build multifamily housing.The lawsuits \u2014 filed by the towns of Duxbury, Hamilton, Hanson, Holden, Marshfield, Middleton, Wenham, Weston, and Wrentham \u2014 sought relief from the MBTA Communities Act on the grounds that it constitutes an \u201cunfunded mandate,\u201d and that more multifamily development would strain their local infrastructure like roads and sewer systems. Judge Mark Gildea rejected the towns\u2019 argument as \u201cspeculative,\u201d saying they did not provide concrete examples of the costs multifamily housing would inflict on them. \u201cThe Municipalities have neither pled specific costs for anticipated infrastructure costs, nor provided any specific timeline for anticipated construction projects,\u201d Gildea wrote in the ruling. \u201cInstead, the only allegations and averments before the court are generalized comments about large-scale issues they forsee, which are insufficient to sustain the Municipalities\u2019 claims.\u201d The ruling is the latest legal blow to towns that have sought to avoid passing new zoning rules under the four-year-old MBTA Communities Act. AdvertisementLast year, the Supreme Judicial Court upheld MBTA Communities after Attorney General Andrea Campbell sued the town of Milton for its failure to meet deadlines to pass new housing rules set out under the law\u2019s guidelines. The suits Gildea dismissed Friday were filed after State Auditor Diana DiZoglio\u2019s office issued an opinion in February calling the law an \u201cunfunded mandate\u201d because it \u201cdoes not provide a funding mechanism for compliance with its provisions.\u201dAdvertisementGildea rejected that opinion in his ruling. He also said towns had misinterpreted the auditor\u2019s opinion by making broad claims about infrastructure costs under the law, when the opinion instead focused on the administrative costs associated with designing and passing new zoning rules. \u201cWe are pleased the courts have again affirmed the intent of the MBTA Communities Law, and we look forward to working with the remaining communities to complete their zoning changes,\u201d Housing Secretary Ed Augustus said in a statement Friday. Of 177 municipalities covered by the law, 134 have now passed new multifamily zoning, and more than 4,000 units of housing are in the development pipeline in those districts, state officials said. Housing advocates \u2014 who view MBTA Communities as one of the state\u2019s more consequential housing laws of the last several decades \u2014 celebrated the ruling Friday, saying it clears the path for the law to move forward. \u201cToday\u2019s ruling is a great victory for all Massachusetts residents, but particularly the communities of color and low-income individuals hardest hit by the affordable housing crisis,\u201d said Jacob Love, Senior Attorney at Lawyers for Civil Rights, a legal advocacy groups that has sued towns for defying MBTA Communities. \u201cIncreasing multi-family housing stock is critical to advancing fair housing in the Commonwealth and this decision preserves one of the most important tools we have in the fight for housing equity.\u201d Andrew Brinker can be reached at andrew.brinker@globe.com. Follow him @andrewnbrinker.",
+        "Outlet": "Boston Globe",
+        "classifications": {
+            "Residential Real Estate": 0.841863751411438,
+            "Real Estate Legal": 0.5809129476547241,
+            "Real Estate Market Trends": 0.4554358124732971,
+            "Real Estate Investment": 0.4532695710659027,
+            "Real Estate Technology": 0.39307576417922974,
+            "Commercial Real Estate": 0.374755859375,
+            "Real Estate Finance": 0.3198869526386261
+        }
     }
 ]
