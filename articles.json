@@ -10420,5 +10420,23 @@
             "Real Estate Finance": 0.5867384076118469,
             "Commercial Real Estate": 0.5018036961555481
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/real-estate-news/2025/06/08/renovated-office-building-near-old-state-house-hits-the-market-could-be-used-for-apartments/",
+        "raw_pub_date": "2025-06-08",
+        "pub_date": "2025-06-08T00:00:00",
+        "hed": "Renovated office building near Old State House hits the market, could be used for apartments",
+        "subhead": "Mayor Michelle Wu aims to bring 1,000 new housing units to Boston by 2026.",
+        "content": "ByMadeleine Aitken\nA federally-owned building across from Old State House in downtown Boston is available to be leased and could be used for apartments, offices, or a hotel.\nThe building at 15 State St./45 Devonshire St., known as the Easton Building, is owned by the National Park Service, which also owns the adjacent Old State House, Faneuil Hall, and the Freedom Trail. Constructed in 1902, the Easton Building is 11 stories with about 37,000 square feet of gross building area.\nIt has been under renovation since at least 2020, according toBoston Business Journal, and National Parks of Boston is now seeking \u201cinnovative proposals that can use the space effectively and that also align with NPS adaptive reuse and preservation values,\u201d the organization said in an announcement.\nThe building is listed as a historic building and is eligible for listing on the National Register of Historic Places.\nOne option for the building is apartments, based in part on an incentive program launched by Mayor Michelle Wu for office-to-residential conversions with the goal of repurposing vacant office space while increasing housing supply. The program has received 15 proposals that would bring 762 units across 606,000 square feet of building space.\nSome have already beenapproved, including one that will turn 9 Arch St., also known as 16-18 Hawley, and 31 Milk St. in the Financial District into 110 new residential units, 22 of which will be affordable, and another that will turn 123 N. Washington St. in the North End into 45 new rental units, seven of which will be affordable.\nAnother project at 15 Court Square approved in March will renovate another 11-story mixed use office building in 80 units, 16 of which will be affordable, theBoston Heraldreported.\nWu\u2019s tax incentive program aims to revitalize 1,000 new housing units and one million square feet by 2026.\nGet everything you need to know to start your day, delivered right to your inbox every morning.\n\nBe civil.  Be kind.\n\u00a92025 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.8734266757965088,
+            "Real Estate Market Trends": 0.6437047719955444,
+            "Real Estate Investment": 0.6346913576126099,
+            "Commercial Real Estate": 0.6304594874382019,
+            "Real Estate Legal": 0.5009885430335999,
+            "Real Estate Technology": 0.4974544644355774,
+            "Real Estate Finance": 0.4015781283378601
+        }
     }
 ]
