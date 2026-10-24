@@ -64674,5 +64674,23 @@
             "Real Estate Technology": 0.6450403928756714,
             "Real Estate Legal": 0.5691045522689819
         }
+    },
+    {
+        "url": "https://www.boston.com/real-estate/quizzes/2026/10/24/a-3-br-ranch-for-boat-loving-snowbirds-in-fort-myers/",
+        "raw_pub_date": "2026-10-24",
+        "pub_date": "2026-10-24T00:00:00",
+        "hed": "A 3-BR ranch for boat-loving snowbirds in Fort Myers",
+        "subhead": "The single-story waterfront Florida home has 105 feet of waterfront with two docks and a 10,000-pound boat lift.",
+        "content": "ByEmily Turner\nSend this article to your social connections.\nSend this article to your social connections.\nAdd Boston.com as your preferred source on Google to see more of our stories.\nThink you can guess home prices in Massachusetts and New England? Put your knowledge to the test.\n\nEmily Turner is the community deputy editor for Boston.com, where she oversees reader engagement.\nOur weekly digest on buying, selling, and design, with expert advice and insider neighborhood knowledge.\n\nBe civil.  Be kind.\n\u00a92026 Boston Globe Media Partners, LLC\nStay up to date with everything Boston. Receive the latest news and breaking updates, straight from our newsroom to your inbox.\n",
+        "Outlet": "Boston.com",
+        "classifications": {
+            "Residential Real Estate": 0.9250877499580383,
+            "Real Estate Investment": 0.8251228928565979,
+            "Real Estate Market Trends": 0.7857993841171265,
+            "Real Estate Technology": 0.7524860501289368,
+            "Real Estate Finance": 0.7282687425613403,
+            "Real Estate Legal": 0.7102371454238892,
+            "Commercial Real Estate": 0.39803895354270935
+        }
     }
 ]
